@@ -12,5 +12,8 @@
         ["a2s/players.py", "github:Yepoleb/python-a2s/a2s/players.py"],
         ["a2s/rules.py", "github:Yepoleb/python-a2s/a2s/rules.py"]
     ],
+    "deps": [
+        ["logging", "latest"]
+    ],
     "version": "1.3.0"
 }
